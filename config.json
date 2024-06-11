@@ -1,0 +1,89 @@
+{
+  "idgame": "17017769292",
+  "delaychecking": "7000",
+  "delayopenapp": "20000",
+  "delayrejoin": "10000",
+  "find_vipserver_auto": false,
+  "emu_typeall": [
+    "ldplayer",
+    "mumu",
+    "bluestack",
+    "memu",
+    "nox"
+  ],
+  "emutype": "mumu",
+  "Location_script_ของแต่ละค่ายดูที่นี่แล้วเอาไปใส่ด้านล่าง": {
+    "อันที่ 1 arceusx": "/sdcard/Arceus X/Autoexec",
+    "อันที่ 2 fluxus": "/sdcard/Android/data/com.roblox.client/files/Fluxus/Autoexec",
+    "เพิ่มเติม": "สามารถ custom ที่อยู่ไฟล์เองได้เลยครับ"
+  },
+  "location_script": "/sdcard/Android/data/com.roblox.client/files/Fluxus/Autoexec",
+  "localexe": {
+    "MuMuManager": "D:/Program Files/Netease/MuMuPlayerGlobal-12.0/shell/MuMuManager.exe",
+    "ldconsole": "D:/LDPlayer/LDPlayer9/ldconsole.exe"
+  },
+  "fluxus": {
+    "key": "",
+    "autogetkey": {
+      "enabled:": false,
+      "minute": 25
+    }
+  },
+  "botdiscord": {
+    "enabled": false,
+    "token": "",
+    "serverid": [
+      "0"
+    ],
+    "ownerid": [
+      "0"
+    ],
+    "robloxaccmanager": {
+      "port": "7963",
+      "portnexus": "5242",
+      "pass": "Whatever",
+      "connectportram": false,
+      "connectportnexus": false
+    },
+    "captureroblox": {
+      "webhook": "",
+      "delaycheck": 180000,
+      "enabled": true
+    },
+    "ramchecker": {
+      "webhook": "",
+      "enabled": true
+    },
+    "status_activity": {
+      "mobilestatus": true,
+      "mode": {
+        "listtype": [
+          "COMPETING",
+          "LISTENING",
+          "PLAYING",
+          "STREAMING",
+          "WATCHING"
+        ],
+        "type": "STREAMING",
+        "change_continue": false,
+        "normal": true
+      },
+      "change_continue": [
+        "💎 {device} Devices | Xenon Manager",
+        "🔥 {device} Devices | Xenon Manager",
+        "🍀 {device} Devices | Xenon Manager",
+        "🌈 {device} Devices | Xenon Manager"
+      ],
+      "normal_status": "🎁 {device} | Xenon Manager"
+    },
+    "embed_design": {
+      "title": "Xenon Manager / Emulator",
+      "color": "#98bae3",
+      "footer_icon": "https://cdn.discordapp.com/attachments/1055199336687996991/1209021039854747648/DG74.gif?ex=65e56796&is=65d2f296&hm=c74b41de625b3e3fdb7457c6d084df010aac5f8263cfcba98c27c8558ac378b7&",
+      "icon_url": "https://cdn.discordapp.com/attachments/1055199336687996991/1209021345619251260/jungwad_flower2.gif?ex=65e567df&is=65d2f2df&hm=31a4fe3ed4b77411770000c1c86e525ed61c7c45fffbd49c00fc4ba3b88b0337&",
+      "thumbnail": "https://cdn.discordapp.com/attachments/1055199336687996991/1209021338413436938/jungwad_fire5.gif?ex=65e567dd&is=65d2f2dd&hm=fd875f7bb174ef95acb4478fcc2ebc7f9f60755b4cae307c8484bd76b970a822&",
+      "image": ""
+    }
+  },
+  "rjst": true
+}
